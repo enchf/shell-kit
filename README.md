@@ -6,6 +6,10 @@ Easily install and keep them up to date with a single command.
 
 ---
 
+## 📚 Reference
+
+See the full list of aliases and functions in the [docs/REFERENCE.md](docs/REFERENCE.md).
+
 ## 🚀 Installation
 
 Run this in your terminal (requires `git`):
